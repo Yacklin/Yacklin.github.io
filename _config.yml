@@ -1,7 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
-title: Yacklin Huang
 
-description: blah blah blah
+title: Yacklin Huang
 show_downloads: false
 
-theme: jekyll-theme-minimal
